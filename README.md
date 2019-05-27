@@ -27,7 +27,7 @@ If you want Coordinates for the nodes in WGS84 Latitude & Longitude, [download t
 
 This map shows a road isodistance map generated from the output SSSP table in QGIS.
 
-![Santa Clara Isodistances](./img/endeavor_isodistances.png)
+![Santa Clara Isodistances](./img/endeavor_isodistances.png) 
 
 # Further Reading
 * [Search for TIGER/Line on DATA.GOV](https://catalog.data.gov/dataset?metadata_type=geospatial&organization=census-gov&q=tiger+line+2018&tags=roads&_tags_limit=0)
